@@ -1,0 +1,24 @@
+Munchy Ramen
+Noodles
+Heavenly quality base soup filled with tasty munchies accompanied by ramen.
+11.50
+Chicky Rice
+Rice
+Tasty chicken with picked green stuffs served with rice stewed in some cheeky juices.
+8.50
+Porky Rice
+Rice
+Crispy pork with three layers of meat served with sweet-tasty grains.
+11.50
+Curvy Noodles
+Noodles
+Freshly steamed curvy noodles in a sea of meaty awesome.
+9.50
+Mehmeh Bryani
+Rice
+Freshly spiced mutton served with handmade heavenly golden Bryani.
+15
+Sunny Pizza
+Pizza
+A mix of ham and pineapple on top of a chewy crust perfect for some munching exercise.
+20
